@@ -38,6 +38,7 @@ Follow the steps below to install Node Exporter on an Amazon Linux EC2 instance 
    ```
 
    Save the changes and exit the vi editor.
+   give execute permission for node_exporter.service (chmod 777 node_exporter.service)
 
 5. Execute the following commands:
 
